@@ -11,6 +11,10 @@ import pandas as pd
 
 app = Flask(__name__)
 
+@app.route("/")
+def index():
+    return render_template("indexhome.html")
+
 # Load the saved machine learning model
 model = joblib.load('regression_model_saved.joblib')
 
