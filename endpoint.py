@@ -5,7 +5,7 @@ Created on Thu Mar 16 12:19:21 2023
 @author: jrelh
 """
 
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 import joblib
 import pandas as pd
 
