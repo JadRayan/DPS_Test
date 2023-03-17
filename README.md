@@ -15,3 +15,6 @@ First, we can see the evolution of the number of accidents for each accident cat
 
 I created a model by using the Random Forest Regressor. Then, I computed the differences between the real values of 2021 and the predicted values :
 
+![DPS_Diff_Alkokol](https://user-images.githubusercontent.com/49405456/225893585-235064e9-bfc9-4c54-a113-2683b6a29034.png)
+![DPS_Diff_Fluch](https://user-images.githubusercontent.com/49405456/225893592-ee8155b3-e6c9-4764-b3db-bcad29723adf.png)
+![DPS_Diff_Verke](https://user-images.githubusercontent.com/49405456/225893603-536a8af6-f95c-4824-b3d2-f974ae4b2024.png)
